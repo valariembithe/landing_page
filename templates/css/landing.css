@@ -207,6 +207,7 @@ footer ul li{
 }
 
 @media screen and (max-width: 767px) {
+    #about,
     .grid,
     .info,
     .info h3,
@@ -234,9 +235,6 @@ footer ul li{
     }
     #features .icon {
         width: 20%;
-    }
-    #about {
-        margin-left: 25px;
     }
     .desc h3 {
         margin-top: 40px;
