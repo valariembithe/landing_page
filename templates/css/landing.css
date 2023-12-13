@@ -231,6 +231,9 @@ footer ul li{
         margin-top: 15px;
         padding: 5px;
         width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
     }
     #features .icon {
         height: 50px;
@@ -239,5 +242,11 @@ footer ul li{
     }
     #about {
         margin-left: 25px;
+    }
+    .desc h3 {
+        margin-top: 40px;
+    }
+    .desc p{
+        margin-bottom: 20px;
     }
 }
