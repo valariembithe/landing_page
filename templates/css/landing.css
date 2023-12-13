@@ -222,14 +222,18 @@ footer ul li{
         margin-top: 20px;
         padding: 15px;
     }
+    #features {
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
     #features .desc {
         height: 85px;
         margin-top: 15px;
         padding: 5px;
     }
     #features .icon {
-        height: 80px;
-        width: 50vw;
+        height: 50px;
+        width: 25vw;
     }
     #about {
         margin-left: 25px;
