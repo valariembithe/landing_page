@@ -207,8 +207,6 @@ footer ul li{
 }
 
 @media screen and (max-width: 767px) {
-    #features .icon,
-    #features .desc,
     .grid,
     .info,
     .info h3,
