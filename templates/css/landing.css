@@ -204,3 +204,27 @@ footer ul li{
         align-items: center;
     }
 }
+
+@media screen and (max-width: 767px) {
+    #features .icon,
+    #features .desc,
+    .grid,
+    .info,
+    .info h3,
+    .info p {
+        width: 100%; /* Full width for mobile */
+        margin-left: 15px; /* No margin for mobile */
+    }
+}
+@media screen and (max-width: 767px) {
+    .grid {
+        margin-bottom: 30px;
+    }
+    #features .icon {
+        height: 80px;
+        width: 50vw;
+    }
+    #about {
+        margin-left: 50px;
+    }
+}
