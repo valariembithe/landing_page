@@ -230,10 +230,12 @@ footer ul li{
         height: 85px;
         margin-top: 15px;
         padding: 5px;
+        width: 50%;
     }
     #features .icon {
         height: 50px;
         width: 25vw;
+        max-width: 50%;
     }
     #about {
         margin-left: 25px;
